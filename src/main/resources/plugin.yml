@@ -1,0 +1,5 @@
+name: Example
+author: 1combit
+version: 1.0
+main: org.example.example.ExamplePlugin
+api-version: 1.16
